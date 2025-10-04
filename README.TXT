@@ -27,3 +27,9 @@ Then start describing your problem by typing in the terminal window.
 
 The purpose of this project is to demonstrate and study library classes, such 
 as ArrayList, HashMap, HashSet, and Random.
+
+Part 3
+
+43. it is a way to add a key–value pair only if the key is not already present in the map.
+
+44. 
